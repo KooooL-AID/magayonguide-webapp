@@ -203,15 +203,6 @@ GET    /api/municipalities         – All 18 Albay municipalities
 
 ### 📊 Admin Dashboard
 ![Admin Dashboard](admin-dashboard.png)
-
-### 🎥 Feature Walkthrough
-> [!TIP]
-> **To add a video to your GitHub README:** 
-> 1. Open this README on GitHub.com and click the "Edit" button.
-> 2. Drag and drop your video file (MP4, MOV) directly into the editor.
-> 3. GitHub will upload it and generate a link like `https://github.com/user-attachments/assets/...` which will render as an interactive player.
-
-
 <details>
 <summary>📋 View Feature Checklist</summary>
 
